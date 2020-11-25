@@ -8,9 +8,12 @@
 
 ## I'm social, sometimes
 
-[<img alt="Website" width="40px" align="left" style="margin: 5px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img alt="Twitter" width="40px" align="left" style="margin: 5px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img alt="LinkedIn" width="40px" align="left" style="margin: 5px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img alt="Website" width="35px" align="left" style="margin: 5px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img alt="Twitter" width="35px" align="left" style="margin: 5px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img alt="LinkedIn" width="35px" align="left" style="margin: 5px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+<br />
 
 ## Personal toolkit for global domination
 
