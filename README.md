@@ -6,7 +6,7 @@
 - 💬 Ask me about JavaScript/TypeScript and VueJS
 - 🥅 My goal in 2021 is to contribute more to OSS and share more of my work
 
-## Recently played 🎧
+## Now playing 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=james2mid&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
 
