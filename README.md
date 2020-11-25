@@ -6,7 +6,11 @@
 - 💬 Ask me about JavaScript/TypeScript and VueJS
 - 🥅 My goal in 2021 is to contribute more to OSS and share more of my work
 
-## I'm social, sometimes
+## Recently played 🎧
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=james2mid&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
+
+## I'm social, sometimes 😊
 
 [<img alt="Website" width="35px" align="left" style="margin: 5px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img alt="Twitter" width="35px" align="left" style="margin: 5px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -15,7 +19,7 @@
 <br />
 <br />
 
-## Personal toolkit for global domination
+## Personal toolkit for global domination 🧰
 
 <img alt="macOS" width="30px" align="left" style="margin: 5px" src="https://wiki.videolan.org/images/MacOS_logo.png" />
 <img alt="Visual Studio Code" width="30px" align="left" style="margin: 5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
