@@ -6,7 +6,7 @@
 - 💬 Ask me about JavaScript/TypeScript and VueJS
 - 🥅 My goal in 2021 is to contribute more to OSS and share more of my work
 
-## Activity 👨‍💻
+## Weekly Activity 👨‍💻
 <!--START_SECTION:waka-->
 ```text
 TypeScript   33 mins         ████████████████████████▒   96.97 % 
