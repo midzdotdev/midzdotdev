@@ -8,6 +8,9 @@
 
 ## Activity 👨‍💻
 <!--START_SECTION:waka-->
+```text
+TypeScript   33 mins         ████████████████████████▒   96.97 % 
+```
 <!--END_SECTION:waka-->
 
 ## Now playing 🎧
