@@ -17,7 +17,7 @@ TypeScript   33 mins         █████████████████
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=james2mid&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
 
-## I'm socialable, sometimes 😊
+## I'm sociable, sometimes 😊
 
 [<img alt="Website" width="35px" align="left" style="margin: 5px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img alt="Twitter" width="35px" align="left" style="margin: 5px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
