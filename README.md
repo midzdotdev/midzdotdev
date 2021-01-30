@@ -1,9 +1,9 @@
 # I'm James 👋
 
 - 🔭 I’m currently working on a [versatile assessment platform][assess]
-- 🌱 I’m currently learning React and Software Architecture
+- 🌱 I’m currently learning React and Software Design
 - 🤔 I’m looking for help with FP
-- 💬 Ask me about JavaScript/TypeScript and VueJS
+- 💬 Ask me about TypeScript and Vue.js
 - 🥅 My goal in 2021 is to contribute more to OSS and share more of my work
 
 ## Weekly Activity 👨‍💻
