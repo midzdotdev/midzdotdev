@@ -1,6 +1,6 @@
 # I'm James 👋
 
-- 🔭 Working on a [website scraping system][spider]
+- 🔭 Working on a [website scraping framework][spider]
 - 🌱 Learning Software Design
 - 🤔 Looking for help with Functional Programming
 - 💬 Ask me about TypeScript and React
@@ -37,6 +37,8 @@ JavaScript   1 min           ░░░░░░░░░░░░░░░░░
 <img alt="Node.js" width="30px" align="left" style="margin: 5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img alt="PostgreSQL" width="30px" align="left" style="margin: 5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img alt="MongoDB" width="30px" align="left" style="margin: 5px" src="https://www.clipartmax.com/png/full/275-2754492_mongodb-nosql-document-oriented-database-portable-network-mongodb-logo.png" />
+
+<br />
 
 ## My socials 🗣️
 
