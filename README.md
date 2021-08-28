@@ -1,12 +1,12 @@
 # I'm James 👋
 
-- 🔭 I’m currently working on a [versatile assessment platform][assess]
-- 🌱 I’m currently learning React and Software Design
-- 🤔 I’m looking for help with FP
-- 💬 Ask me about TypeScript and Vue.js
-- 🥅 My goal in 2021 is to contribute more to OSS and share more of my work
+- 🔭 Working on a [website scraping system][spider]
+- 🌱 Learning Software Design
+- 🤔 Looking for help with Functional Programming
+- 💬 Ask me about TypeScript and React
+- 🥅 Soon to start a YouTube channel
 
-## Weekly Activity 👨‍💻
+## This week's code 👨‍💻
 <!--START_SECTION:waka-->
 ```text
 TypeScript   4 hrs 31 mins   ████████████████████████▒   97.86 % 
@@ -17,18 +17,9 @@ JavaScript   1 min           ░░░░░░░░░░░░░░░░░
 
 ## Now playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=james2mid&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=james2mid&cover_image=true&theme=natemoo-re)](https://open.spotify.com/user/james2mid?si=2b3baf2b09cb499e)
 
-## I'm sociable, sometimes 😊
-
-[<img alt="Website" width="35px" align="left" style="margin: 5px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img alt="Twitter" width="35px" align="left" style="margin: 5px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img alt="LinkedIn" width="35px" align="left" style="margin: 5px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-<br />
-
-## Personal toolkit for global domination 🧰
+## My stack 🥞
 
 <img alt="macOS" width="30px" align="left" style="margin: 5px" src="https://wiki.videolan.org/images/MacOS_logo.png" />
 <img alt="Visual Studio Code" width="30px" align="left" style="margin: 5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -47,8 +38,14 @@ JavaScript   1 min           ░░░░░░░░░░░░░░░░░
 <img alt="PostgreSQL" width="30px" align="left" style="margin: 5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img alt="MongoDB" width="30px" align="left" style="margin: 5px" src="https://www.clipartmax.com/png/full/275-2754492_mongodb-nosql-document-oriented-database-portable-network-mongodb-logo.png" />
 
+## My socials 🗣️
+
+[<img alt="Website" width="35px" align="left" style="margin: 5px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img alt="Twitter" width="35px" align="left" style="margin: 5px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img alt="LinkedIn" width="35px" align="left" style="margin: 5px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 [website]: https://jamesmiddleton.me
 [twitter]: https://twitter.com/james2mid
 [linkedin]: https://linkedin.com/in/james2mid
 [spotify]: https://open.spotify.com/user/james2mid
-[assess]: https://github.com/james2mid/assess
+[spider]: https://github.com/james2mid/spider
