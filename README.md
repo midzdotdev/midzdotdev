@@ -1,11 +1,5 @@
 # I'm James 👋
 
-- 🔭 Working on a [website scraping framework][spider]
-- 🌱 Learning Software Design
-- 🤔 Looking for help with Functional Programming
-- 💬 Ask me about TypeScript and React
-- 🥅 Soon to start a YouTube channel
-
 ## This week's code 👨‍💻
 <!--START_SECTION:waka-->
 ```text
