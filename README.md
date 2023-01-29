@@ -1,4 +1,4 @@
-# Hey there 👋
+## Hey there 👋
 
 Welcome to my technical abode.
 
@@ -7,8 +7,6 @@ Welcome to my technical abode.
 
 ```text
 From: 30 December 2022 - To: 28 January 2023
-
-Total Time: 104 hrs 55 mins
 
 TypeScript   53 hrs 47 mins  ███████████▒░░░░░░░░░░░░░   44.77 %
 Terraform    23 hrs 11 mins  ████▓░░░░░░░░░░░░░░░░░░░░   19.30 %
