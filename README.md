@@ -6,13 +6,13 @@ Welcome to my technical abode.
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 January 2023 - To: 19 February 2023
+From: 22 January 2023 - To: 20 February 2023
 
-TypeScript   71 hrs 8 mins   ██████████████████▓░░░░░░   75.01 %
-Terraform    10 hrs 26 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 %
-JavaScript   4 hrs 22 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
-JSON         3 hrs 16 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
-Other        2 hrs 24 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+TypeScript   71 hrs 41 mins  ███████████████████▒░░░░░   76.80 %
+Terraform    8 hrs 23 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 %
+JavaScript   4 hrs 23 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+JSON         3 hrs 17 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+Other        2 hrs 22 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
 ```
 
 <!--END_SECTION:waka-->
