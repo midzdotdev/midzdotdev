@@ -6,11 +6,11 @@ Welcome to my technical abode.
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 February 2023 - To: 25 March 2023
+From: 25 February 2023 - To: 26 March 2023
 
-TypeScript   39 hrs 53 mins  ██████████████████▓░░░░░░   75.05 %
-Bash         8 hrs 34 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.15 %
-Other        2 hrs 19 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
+TypeScript   44 hrs 25 mins  ███████████████████░░░░░░   75.91 %
+Bash         8 hrs 42 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.89 %
+Other        2 hrs 43 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
 ```
 
 <!--END_SECTION:waka-->
