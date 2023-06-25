@@ -6,13 +6,13 @@ Welcome to my technical abode.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 May 2023 - To: 23 June 2023
+From: 25 May 2023 - To: 24 June 2023
 
-TypeScript   51 hrs 53 mins  ████████████████████░░░░░   79.92 %
-YAML         5 hrs 32 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 %
-JSON         3 hrs 16 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
-JavaScript   1 hr 35 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-Docker       38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+TypeScript   58 hrs 34 mins  ████████████████████▒░░░░   80.88 %
+YAML         5 hrs 32 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
+JSON         3 hrs 19 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+JavaScript   1 hr 36 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+CSS          48 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
 ```
 
 <!--END_SECTION:waka-->
