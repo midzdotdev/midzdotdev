@@ -6,7 +6,7 @@ Welcome to my technical abode.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 July 2023 - To: 01 August 2023
+From: 03 July 2023 - To: 02 August 2023
 
 TypeScript   7 hrs 58 mins   ████████████████████░░░░░   80.09 %
 Rust         1 hr 37 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.36 %
