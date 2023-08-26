@@ -6,7 +6,7 @@ Welcome to my technical abode.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 July 2023 - To: 24 August 2023
+From: 26 July 2023 - To: 25 August 2023
 
 TypeScript   32 hrs 4 mins   ███████████████████████▓░   94.36 %
 JSON         46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
