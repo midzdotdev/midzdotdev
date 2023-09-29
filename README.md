@@ -6,7 +6,7 @@ Welcome to my technical abode.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 August 2023 - To: 27 September 2023
+From: 29 August 2023 - To: 28 September 2023
 
 YAML           25 hrs 24 mins  ████████████████▒░░░░░░░░   64.70 %
 TypeScript     12 hrs 15 mins  ███████▓░░░░░░░░░░░░░░░░░   31.20 %
