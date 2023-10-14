@@ -6,13 +6,13 @@ Welcome to my technical abode.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 September 2023 - To: 12 October 2023
+From: 13 September 2023 - To: 13 October 2023
 
-TypeScript   16 hrs 4 mins   █████████████░░░░░░░░░░░░   52.01 %
-YAML         13 hrs 13 mins  ██████████▓░░░░░░░░░░░░░░   42.78 %
-Terraform    28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-JSON         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-SQL          17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+TypeScript   15 hrs 20 mins  █████████████▒░░░░░░░░░░░   53.68 %
+YAML         11 hrs 59 mins  ██████████▒░░░░░░░░░░░░░░   41.92 %
+Terraform    28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+JSON         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+Other        10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
