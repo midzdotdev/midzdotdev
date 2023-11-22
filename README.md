@@ -6,11 +6,13 @@ Welcome to my technical abode.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 October 2023 - To: 15 November 2023
+From: 22 October 2023 - To: 21 November 2023
 
-TypeScript   2 hrs 48 mins   ████████████████████████▒   97.10 %
-JSON         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+TypeScript                 5 hrs 36 mins   ██████████████████▒░░░░░░   73.22 %
+Nginx configuration file   1 hr 5 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.19 %
+JSON                       47 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 %
+Other                      9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+Bash                       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
