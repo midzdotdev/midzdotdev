@@ -6,7 +6,7 @@ Welcome to my technical abode.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 November 2023 - To: 29 December 2023
+From: 01 December 2023 - To: 30 December 2023
 
 TypeScript   0 secs          █████████████████████████   100.00 %
 ```
