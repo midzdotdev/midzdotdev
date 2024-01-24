@@ -6,7 +6,7 @@ Welcome to my technical abode.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2023 - To: 22 January 2024
+From: 25 December 2023 - To: 23 January 2024
 
 No activity tracked
 ```
