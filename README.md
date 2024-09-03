@@ -1,18 +1,5 @@
 ## Hey there 👋
 
-Welcome to my technical abode.
+I’m James, a passionate developer with over 4 years of experience specializing in **React.js**, **TypeScript**, and **Node.js**.
 
-#### 📊 Monthly Dev Overview
-<!--START_SECTION:waka-->
-
-```txt
-From: 02 August 2024 - To: 01 September 2024
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-#### 🎧 Now Playing
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=james2mid&cover_image=true&theme=natemoo-re)](https://open.spotify.com/user/james2mid?si=2b3baf2b09cb499e)
+Currently seeking a job as a mid-level or senior full-stack developer and improve my backend skills.
